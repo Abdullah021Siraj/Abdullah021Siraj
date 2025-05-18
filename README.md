@@ -18,16 +18,16 @@ Hey there! I'm a Computer Science student at SZABIST, obsessed with DevOps, clou
 
 ## Featured Projects 🛠️
 
-- **[Serverless URL Shortener](https://github.com/Abdullah021Siraj/url-shortener)**  
+- **[Serverless URL Shortener](https://github.com/Abdullah021Siraj/url-shortener-AWSLamda)**  
   Engineered a serverless microservice with AWS Lambda, API Gateway, and DynamoDB, crushing 2,000+ RPM with <300ms latency. Slashed costs by 90%—proof that serverless is the future!
 
-- **[Weather Dashboard](https://github.com/Abdullah021Siraj/weather-dashboard)**  
+- **[Weather Dashboard](https://github.com/Abdullah021Siraj/weather-app)**  
   Built a slick Next.js dashboard with TypeScript, hosted on AWS EC2 with PM2. GitHub Actions powers zero-downtime auto-deploys, keeping the UI fresh and responsive.
 
-- **[CI/CD Workflow](https://github.com/Abdullah021Siraj/cicd-aws)**  
+- **[CI/CD Workflow](https://github.com/Abdullah021Siraj/nextwork-devops)**  
   Designed an AWS CodeBuild-to-CodePipeline CI/CD setup for a Java web app, cutting deployment time by 70%. Bash scripts automated the grunt work, letting me focus on the big picture.
 
-- **[DevOps Portfolio](https://github.com/Abdullah021Siraj/devops-portfolio)**  
+- **[DevOps Portfolio](https://github.com/Abdullah021Siraj/nextjs-devops-portfolio)**  
   Showcased my skills with a Next.js portfolio, containerized via multi-stage Docker builds. GitHub Actions deploys to GHCR, with AWS EC2 hosting and a 70% smaller image size.
 
 ## Tech Stack ⚙️
