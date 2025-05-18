@@ -8,7 +8,7 @@ Hey there! I'm a Computer Science student at SZABIST, obsessed with DevOps, clou
 - 🛠️ Mastermind of CI/CD pipelines with GitHub Actions, serverless AWS architectures, and Dockerized workflows
 - 💡 Fueled by the thrill of turning chaos into seamless, scalable systems that empower teams to ship faster
 - 🌐 Check out my work: [abdullah-siraj.vercel.app](https://abdullah-siraj.vercel.app/)
-- - 📄 View my resume: [Resume](https://drive.google.com/file/d/1HJymUFs1ZHO3jO0eH5Oz7fVNyzRTrvNQ/view?usp=sharing)
+- 📄 View my resume: [Resume](https://drive.google.com/file/d/1HJymUFs1ZHO3jO0eH5Oz7fVNyzRTrvNQ/view?usp=sharing)
 
 ## 📊 GitHub Stats
 
