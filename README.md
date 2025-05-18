@@ -49,9 +49,6 @@ Hey there! I'm a Computer Science student at SZABIST, obsessed with DevOps, clou
 
 ## Get in Touch 📡
 
-- ![LinkedIn](https://skillicons.dev/icons?i=linkedin) [linkedin.com/in/abdullah021siraj](https://www.linkedin.com/in/abdullah021siraj)
-- ![GitHub](https://skillicons.dev/icons?i=github) [github.com/Abdullah021Siraj](https://github.com/Abdullah021Siraj)
-- ![Portfolio](https://skillicons.dev/icons?i=vercel) [abdullah-siraj.vercel.app](https://abdullah-siraj.vercel.app)
-- ![Email](https://skillicons.dev/icons?i=gmail) [dev.abdullah21@gmail.com](mailto:dev.abdullah21@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdullah021siraj) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Abdullah021Siraj) [![Portfolio](https://skillicons.dev/icons?i=vercel)](https://abdullah-siraj.vercel.app) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:dev.abdullah21@gmail.com)
 
 Thanks for swinging by! Let's team up to build systems that scale, automate, and dominate. Ready to make some tech magic? 🚀
